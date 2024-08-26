@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 - [Vanguard's Customer Experience A/B Testing Analysis](https://github.com/RosaEvasari/Vanguard_Project)
 - [Instacart app Customer Behaviour Analysis](https://github.com/AlexRibeiro95/Project_InstacartCostumerBehaviour)
 
-## :chart_with_upwards_trend: GitHub Stats 
+## :bar_chart: GitHub Stats 
 ![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaEvasari&custom_title=Rosa's%20GitHub%20Stats)
 
