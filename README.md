@@ -1,4 +1,6 @@
 ## Hi, I'm Rosa! 👋
+Welcome to my GitHub profile! <br>
+I'm a junior data analytics passionate about transforming datasets into actionable insights.
 
 <!--
 **RosaEvasari/RosaEvasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
